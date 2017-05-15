@@ -1,15 +1,17 @@
 {  
-   "dash_button":"xx:xx:xx:xx:xx:xx",
+   "dash_button": "xx:xx:xx:xx:xx:xx",
    "sms":{  
-      "region":"us",
-      "message":"Someone is here!"
+      "region": "us",
+      "message": "Someone is here!",
+      "user": "xxxxxxxxx",
+      "password": "xxxxxxxx"
    },
    "users":[  
       {  
-         "phone":0000000000,
-         "mac":"xx:xx:xx:xx:xx:xx",
-         "name":"Mighty Pi",
-         "present":"false"
+         "phone": 0000000000,
+         "mac": "xx:xx:xx:xx:xx:xx",
+         "name": "Mighty Pi",
+         "present": "false"
       }
    ]
 }
